@@ -1,5 +1,7 @@
 # Upgrade angular-cli:
 
+Sometime you might get annoying problems with updating angular-cli as following [updating-angular-cli] (https://github.com/angular/angular-cli/#updating-angular-cli)
+
 To update `angular-cli` to new version:
 
 ```
