@@ -1,5 +1,5 @@
 # WINDOWS OS
-TODO: TBD
+**TODO**: TBD
 
 # MAC OS
 ## Upgrade angular-cli:
